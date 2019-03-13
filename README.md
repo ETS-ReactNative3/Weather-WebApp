@@ -1,5 +1,5 @@
 
-This is a Api based Weather-App which fetches the data, and displays current temperature of the city.
+This is an Api based Weather-App which fetches the data, and displays current temperature of the city built with ReactJs.
 
 
 ## Table of Contents
